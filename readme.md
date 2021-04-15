@@ -1,4 +1,4 @@
-Ini adalah halaman administrator untuk user admin, setelah pengerjaan halaman ini saya akan mengerjakan untuk bagian frontend untuk halaman guru dan siswa menggunakan vue js yang mengkonsumsi data dari Rest API dari project ini.
+Mid Test Praktikum Pemrograman Internet 2021
 
 -Laravel
 -Admin LTe
